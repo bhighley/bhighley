@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bill Highley</h1>
 <h3 align="center">A passionate Digital Transformation Leader</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhighley&label=Profile%20views&color=0e75b6&style=flat" alt="bhighley" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhighley" alt="bhighley" /></a> </p>
 
 - 🔭 I’m currently working on **AI enablement and simplifying software development @ Insulet**

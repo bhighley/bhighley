@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bill Highley</h1>
 <h3 align="center">A passionate Digital Transformation Leader</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhighley" alt="bhighley" /></a> </p>
-
 - 🔭 I’m currently working on **AI enablement and simplifying software development @ Insulet**
 
 - 👯 I’m looking to collaborate on **Gen AI, Agentics, IQ/OQ, documentation automation in medical space**

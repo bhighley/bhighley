@@ -19,7 +19,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhighley&show_icons=true&locale=en&layout=compact" alt="bhighley" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhighley&" alt="bhighley" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhighley&show_icons=true&locale=en" alt="bhighley" /></p>
+
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=bhighley&" alt="bhighley" /></p>
 
 
 
